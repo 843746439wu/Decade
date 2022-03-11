@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SecondaryCommunitySystem:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bf57c71-17d0-4ac4-a29a-3b95307d9317" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="23DyVItN220F1gYvTfO3rddvRQW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/abc/utils" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.19592299" />
+    <property name="project.structure.side.proportion" value="0.33488372" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Decade\Desktop\211806414wxx\Code\github\SecondaryCommunitySystem\SecondaryCommunity\SecondaryCommunitySystem\src\main\java\com\abc\utils" />
+      <recent name="C:\Users\Decade\Desktop\211806414wxx\Code\github\SecondaryCommunitySystem\SecondaryCommunity\SecondaryCommunitySystem\web\WEB-INF\views\chat" />
+      <recent name="C:\Users\Decade\Desktop\211806414wxx\Code\github\SecondaryCommunitySystem\SecondaryCommunity\SecondaryCommunitySystem\web\WEB-INF\views\user" />
+      <recent name="C:\Users\Decade\Desktop\211806414wxx\Code\github\SecondaryCommunitySystem\SecondaryCommunity\SecondaryCommunitySystem\web\WEB-INF\views\commodity" />
+      <recent name="C:\Users\Decade\Desktop\211806414wxx\Code\github\SecondaryCommunitySystem\SecondaryCommunity\SecondaryCommunitySystem\web\WEB-INF\views\activity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Decade\Desktop\211806414wxx\Code\github\SecondaryCommunitySystem\SecondaryCommunity\SecondaryCommunitySystem\web" />
+      <recent name="C:\Users\Decade\Desktop\211806414wxx\Code\github\SecondaryCommunitySystem\SecondaryCommunity\SecondaryCommunitySystem\web\WEB-INF\views" />
+      <recent name="C:\Users\Decade\Desktop\211806414wxx\Code\github\SecondaryCommunitySystem\SecondaryCommunity\SecondaryCommunitySystem\src\main\java\com\abc\controller" />
+      <recent name="C:\Users\Decade\Desktop\211806414wxx\Code\github\SecondaryCommunitySystem\SecondaryCommunity\SecondaryCommunitySystem\web\WEB-INF\views\join" />
+      <recent name="C:\Users\Decade\Desktop\211806414wxx\Code\github\SecondaryCommunitySystem\SecondaryCommunity\SecondaryCommunitySystem\web\static\pic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.abc.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="二次元社区" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.70" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/SecondaryCommunity/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SecondaryCommunitySystem:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/SecondaryCommunity" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="94ca7c0d-e1fe-46a0-99d5-a3b82a17d076" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57208" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SecondaryCommunitySystem:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bf57c71-17d0-4ac4-a29a-3b95307d9317" name="Default Changelist" comment="" />
+      <created>1641282975377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641282975377</updated>
+      <workItem from="1641282981226" duration="24452000" />
+      <workItem from="1641361296144" duration="4731000" />
+      <workItem from="1641375262667" duration="14575000" />
+      <workItem from="1641445278921" duration="17975000" />
+      <workItem from="1641463455653" duration="946000" />
+      <workItem from="1641464434746" duration="363000" />
+      <workItem from="1641464823146" duration="315000" />
+      <workItem from="1641465160408" duration="224000" />
+      <workItem from="1641465546153" duration="257000" />
+      <workItem from="1641465830760" duration="15491000" />
+      <workItem from="1641524137412" duration="13000" />
+      <workItem from="1641524173381" duration="28921000" />
+      <workItem from="1641560818488" duration="812000" />
+      <workItem from="1641604710141" duration="91000" />
+      <workItem from="1642059750578" duration="500000" />
+      <workItem from="1643202055793" duration="291000" />
+      <workItem from="1645763863499" duration="12000" />
+      <workItem from="1645763898577" duration="6299000" />
+      <workItem from="1645772180896" duration="26414000" />
+      <workItem from="1645853128516" duration="10947000" />
+      <workItem from="1645865152460" duration="3000" />
+      <workItem from="1645939731433" duration="6981000" />
+      <workItem from="1645960404231" duration="1319000" />
+      <workItem from="1645978015656" duration="1217000" />
+      <workItem from="1646025806531" duration="1417000" />
+      <workItem from="1646027783457" duration="30409000" />
+      <workItem from="1646114362035" duration="5070000" />
+      <workItem from="1646119500969" duration="9776000" />
+      <workItem from="1646141500049" duration="1594000" />
+      <workItem from="1646143128822" duration="1212000" />
+      <workItem from="1646201028270" duration="12951000" />
+      <workItem from="1646223882417" duration="6830000" />
+      <workItem from="1646287726320" duration="31946000" />
+      <workItem from="1646410019521" duration="831000" />
+      <workItem from="1646476293371" duration="10530000" />
+      <workItem from="1646833962280" duration="993000" />
+    </task>
+    <task id="LOCAL-00001" summary="最终项目--commit">
+      <created>1646478916089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646478916089</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="最终项目--commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="最终项目--commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abc/service/AdminServiceImpl.java</url>
+          <line>10</line>
+          <properties class="com.abc.service.AdminServiceImpl" method="checkAdmin">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abc/dao/ShoppingDaoJDBCImpl.java</url>
+          <line>82</line>
+          <properties class="com.abc.dao.ShoppingDaoJDBCImpl" method="delShopCar">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abc/dao/OrderDaoJDBCImpl.java</url>
+          <line>126</line>
+          <properties class="com.abc.dao.OrderDaoJDBCImpl" method="delOrder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abc/controller/CommentController.java</url>
+          <line>35</line>
+          <properties class="com.abc.controller.CommentController" method="addCommentComic">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abc/dao/CommentComicDaoJDBCImpl.java</url>
+          <line>54</line>
+          <properties class="com.abc.dao.CommentComicDaoJDBCImpl" method="addCommentComic">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/web/WEB-INF/views/activity/list_activity.jsp</url>
+          <line>122</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/abc/controller/OrderController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

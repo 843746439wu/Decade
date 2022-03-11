@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/activity/input_act.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/views/activity" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/activity/list_act.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/views/activity" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/comic/update_comic.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/views/comic" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/home/admin_home.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/login/user_register.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/views/login" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/user/buy_commodity.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/views/user" />
+        <entry key="file://$PROJECT_DIR$/web/WEB-INF/views/user/comic_user.jsp" value="file://$PROJECT_DIR$/web/WEB-INF/views/user" />
+      </map>
+    </option>
+  </component>
+</project>
